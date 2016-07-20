@@ -1,0 +1,61 @@
+<list> a
+testdir/dir1/nesteddir/test3.txt 1 
+</list>
+<list> ator
+testdir/dir1/nesteddir/test3.txt 1 
+</list>
+<list> but
+testdir/dir1/test.txt 1 
+</list>
+<list> different
+testdir/dir1/test.txt 1 
+</list>
+<list> file
+testdir/separators.txt 1 testdir/dir1/nesteddir/test2.txt 1 testdir/dir1/nesteddir/test3.txt 1 testdir/dir1/test.txt 1 testdir/dir1/test1.txt 1
+testdir/dir2/test4.txt 1 testdir/test.txt 1 
+</list>
+<list> first
+testdir/dir1/test.txt 1 testdir/dir1/test1.txt 1 testdir/test.txt 1 
+</list>
+<list> fourth
+testdir/dir2/test4.txt 1 
+</list>
+<list> im
+testdir/dir1/nesteddir/test3.txt 1 
+</list>
+<list> is
+testdir/dir1/nesteddir/test2.txt 1 testdir/dir1/nesteddir/test3.txt 1 testdir/dir1/test.txt 1 testdir/dir1/test1.txt 1 testdir/dir2/test4.txt 1
+testdir/test.txt 1 
+</list>
+<list> nonduplicate
+testdir/dir1/test1.txt 1 
+</list>
+<list> second
+testdir/dir1/nesteddir/test2.txt 1 
+</list>
+<list> separ
+testdir/dir1/nesteddir/test3.txt 1 
+</list>
+<list> separator
+testdir/separators.txt 1 
+</list>
+<list> the
+testdir/dir1/nesteddir/test2.txt 1 testdir/dir1/nesteddir/test3.txt 1 testdir/dir1/test.txt 1 testdir/dir1/test1.txt 1 testdir/dir2/test4.txt 1
+testdir/test.txt 1 
+</list>
+<list> third
+testdir/dir1/nesteddir/test3.txt 1 
+</list>
+<list> this
+testdir/dir1/nesteddir/test3.txt 2 testdir/dir1/nesteddir/test2.txt 1 testdir/dir1/test.txt 1 testdir/dir1/test1.txt 1 testdir/dir2/test4.txt 1
+testdir/test.txt 1 
+</list>
+<list> time
+testdir/dir1/nesteddir/test3.txt 1 
+</list>
+<list> trying
+testdir/dir1/nesteddir/test3.txt 1 
+</list>
+<list> well
+testdir/test.txt 1 
+</list>
